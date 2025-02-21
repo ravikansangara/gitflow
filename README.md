@@ -9,3 +9,6 @@ Git Flow Testing
 
 - Feature-1 Story-2 Commit-1
 
+- Feature-1 Story-2 Commit-2
+
+
